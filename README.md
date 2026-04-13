@@ -3,7 +3,8 @@
 🎯 Project Overview
 An interactive Excel dashboard designed to analyze Employee Attrition. The project identifies key turnover drivers and provides actionable recommendations to enhance retention strategies.
 
-📈 Key Metrics (KPIs)
+📈 Key Metrics (KPIs):
+
 👥 Total Employees: 1,470
 
 📉 Attrition Count: 237
