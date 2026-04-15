@@ -30,4 +30,4 @@ An interactive Excel dashboard designed to analyze **Employee Attrition**. This 
 ## 👤 Author
 Mohamed Abd Elghany
 *Data Analyst*
-[LinkedIn Profile](رابط_بروفايلك_هنا)
+[LinkedIn Profile](https://www.linkedin.com/feed/)
